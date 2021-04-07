@@ -9,7 +9,7 @@ With following modifications: <br>
   - Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
   
   
-<img src="pic/UnoPicoQ.gif" width=640><br>
+<img src="pic/Qt_OpenCV4_Capture.gif" width=640><br>
 
 
 <br>
