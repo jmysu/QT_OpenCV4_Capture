@@ -8,7 +8,7 @@ With following modifications: <br>
   - Fixed Windows/Linux/MacOS build. <br>
   - Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
   
-<img src="pic/QT_OpenCV4_Capture_BigBunny.gif" width=400> <img src="pic/QT_OpenCV4_Capture.gif" width=360><br>
+<img src="pic/QT_OpenCV4_Capture_BigBunny.gif" width=320> <img src="pic/QT_OpenCV4_Capture.gif" width=300><br>
 
 
 <br>
