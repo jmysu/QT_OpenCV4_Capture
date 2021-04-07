@@ -17,7 +17,19 @@ macx {
     PKGCONFIG += opencv4
     PKG_CONFIG = /usr/local/bin/pkg-config
     }
-
+win32 {
+    message("Win64 Opencv440")
+    INCLUDEPATH += D:\opencv440\install\include
+    LIBS += -LD:\opencv440\install\x64\mingw\bin \
+       -lopencv_core440 \
+       -lopencv_highgui440 \
+       -lopencv_imgproc440 \
+       -lopencv_features2d440 \
+       -lopencv_calib3d440 \
+       -lopencv_imgcodecs440 \
+       -lopencv_video440 \
+       -lopencv_videoio440
+        }
 #greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = qt-opencv-capture
