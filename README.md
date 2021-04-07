@@ -2,8 +2,9 @@
 ### OpenCV Capture tools
 Forked project from [MultiThreaded OpenCV Capture](https://code.google.com/archive/p/qt-opencv-multithreaded/wikis/Documentation.wiki) <br>
 With following modifications: <br>
-  -Add Video Files Playback. <br>
-  -Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
+  - Add Video Files Playback. <br>
+  - Fixed Windows/Linux/MacOS build. <br>
+  - Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
   
   
 <img src="pic/UnoPicoQ.gif" width=640><br>
