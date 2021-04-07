@@ -8,10 +8,10 @@ With following modifications: <br>
   - Fixed Windows/Linux/MacOS build. <br>
   - Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
   
-<img src="pic/QT_OpenCV4_BigBunny.gif" width=320> <img src="pic/QT_OpenCV4_Capture.gif" width=300><br>
+<img src="pic/QT_OpenCV4_BigBunny.gif" width=320> <img src="pic/QT_OpenCV4_Capture.gif" width=300>
 ### MacOS play video && BGS <br>
 
-<img src="pic/QT_OpenCV4_Capture_Windows.gif" width=320> <br>
+<img src="pic/QT_OpenCV4_Capture_Windows.gif" width=320>
 ### Windows play video. <br>
 
 <br>
