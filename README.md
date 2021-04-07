@@ -13,8 +13,8 @@ With following modifications: <br>
 <img src="pic/QT_OpenCV4_BigBunny.gif" width=320> <img src="pic/QT_OpenCV4_Capture.gif" width=300>
 <br>
 
-### Windows play video... <br>
-<img src="pic/QT_OpenCV4_Capture_Windows.gif" width=320>
+### Windows play video...  Pi4 play video... <br>
+<img src="pic/QT_OpenCV4_Capture_Windows.gif" width=320> <img src="pic/QT_OpenCV4_CapturePi4.gif" width=320>
 
 
 <br>
