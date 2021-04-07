@@ -9,7 +9,7 @@ With following modifications: <br>
   - Add Background Subtraction from [BGS Library](https://github.com/andrewssobral/bgslibrary) <br>
 <br>
 
-### MacOS play video && BGS... <br>
+### MacOS play video && BGS(framediff)... <br>
 <img src="pic/QT_OpenCV4_BigBunny.gif" width=320> <img src="pic/QT_OpenCV4_Capture.gif" width=300>
 <br>
 
