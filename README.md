@@ -1,4 +1,4 @@
-# QT_OpenCV4_Capture [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Platform: Windows, Linux, OS X](https://img.shields.io/badge/Platform-Win10-64%2C%20Linux%2C%20OS%20X-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue.svg) ![BGS](https://img.shields.io/badge/BGSlib-3.0.0-blue.svg) <br>
+# QT_OpenCV4_Capture [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Platform: Windows, Linux, OS X](https://img.shields.io/badge/Platform-Win10.64%2C%20Linux%2C%20OS%20X-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue.svg) ![BGS](https://img.shields.io/badge/BGSlib-3.0.0-blue.svg) <br>
 ### OpenCV4 Capture
 
 Forked project from [MultiThreaded OpenCV Capture](https://code.google.com/archive/p/qt-opencv-multithreaded/wikis/Documentation.wiki) <br>
